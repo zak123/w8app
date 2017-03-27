@@ -9,6 +9,6 @@ W8 App is an app for business owners (mainly restaraunts) to manage a line of wa
 </ul>
 
 <img src="https://github.com/zak123/w8app/blob/master/Simulator%20Screen%20Shot%20Mar%2027%2C%202017%2C%202.23.28%20PM.png" height="30%" width="30%">
-<img src="https://github.com/zak123/w8app/blob/master/Simulator%20Screen%20Shot%20Mar%2027%2C%202017%2C%202.09.32%20PM.png" height="30%" width="30%">
 <img src="https://github.com/zak123/w8app/blob/master/Simulator%20Screen%20Shot%20Mar%2027%2C%202017%2C%202.09.24%20PM.png"height="30%" width="30%">
+<img src="https://github.com/zak123/w8app/blob/master/Simulator%20Screen%20Shot%20Mar%2027%2C%202017%2C%202.09.32%20PM.png" height="30%" width="30%">
 <img src="https://github.com/zak123/w8app/blob/master/Simulator%20Screen%20Shot%20Mar%2027%2C%202017%2C%202.21.50%20PM.png"height="30%" width="30%">
